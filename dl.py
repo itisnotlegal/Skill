@@ -12,9 +12,12 @@ def main():
 
 
 def info():
+    print(r"""	
     
 
+	Visit Us for more Cool Stuff
 
+                """)
 if __name__ == "__main__":
     info()
     main()
